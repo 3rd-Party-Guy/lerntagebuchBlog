@@ -83,6 +83,7 @@ export const getRecentPosts = async () => {
           }
           createdAt
           slug
+          author
         }
     }`;
 
